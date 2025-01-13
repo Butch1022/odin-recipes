@@ -1,0 +1,21 @@
+/* index.html css */
+
+body {
+background-color: rgb(240, 226, 213);
+font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+
+h1{
+    text-align: center;
+    font-size: 45px;
+}
+
+.ins {
+    text-align: center;
+}
+
+.home {
+    color: black;
+}
+
+
